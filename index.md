@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/migcardon568/migcardon568.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Informacion de Interes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Realizo la organizacion y el enlace de la Herramienta Inginious con un Modulo que Valide Programacion
 
 ```markdown
 Syntax highlighted code block
