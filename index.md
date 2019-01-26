@@ -1,6 +1,6 @@
 ## Welcome to Miguel Cardona
 
-Visualizar el trabajo en la Tesis de Grado para optar por el Titulo de Ingeniero de Sistemas
+Visualizar el trabajo en la Tesis de Grado para optar por el Título de Ingeniero de Sistemas
 
 ### Informacion de Interes
 
@@ -14,12 +14,12 @@ Validar el Conocimiento en Programación en los cursos de Algoritmia de la Unive
 ### Front End en Joomla
 
 - Diseño
-- Implementacion
+- Implementación
 
 1. Pruebas
 2. Prototipo
 
-**Bold** and _Italic_ and `Code` text
+**PREFERENCIAL** RESILIENCIA _PROGRAMACION INTERACTIVA_  `IMAGINATIVA` 
 
 
 ```
