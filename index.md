@@ -1,25 +1,23 @@
 ## Welcome to Miguel Cardona
 
-You can use the [editor on GitHub](https://github.com/migcardon568/migcardon568.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visualizar el trabajo en la Tesis de Grado para optar por el Titulo de Ingeniero de Sistemas
 
 ### Informacion de Interes
 
 Realizo la organización y el enlace de la Herramienta Inginious con un Módulo que Valide Programación
 
 ```markdown
-Validar el Conocimiento en Programación en los cursos de Algoritmia de la Universidad del Valle
+Validar el Conocimiento en Programación en los cursos de Algoritmia de la Universidad
 
 # Backing en Python
 ## Modulo de enlace
 ### Front End en Joomla
 
-- Bulleted
-- List
+- Diseño
+- Implementacion
 
-1. Numbered
-2. List
+1. Pruebas
+2. Prototipo
 
 **Bold** and _Italic_ and `Code` text
 
