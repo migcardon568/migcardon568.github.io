@@ -6,14 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Informacion de Interes
 
-Realizo la organizacion y el enlace de la Herramienta Inginious con un Modulo que Valide Programacion
+Realizo la organización y el enlace de la Herramienta Inginious con un Módulo que Valide Programación
 
 ```markdown
-Syntax highlighted code block
+Validar el Conocimiento en Programación en los cursos de Algoritmia de la Universidad del Valle
 
-# Header 1
-## Header 2
-### Header 3
+# Backing en Python
+## Modulo de enlace
+### Front End en Joomla
 
 - Bulleted
 - List
