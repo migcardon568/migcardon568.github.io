@@ -21,7 +21,7 @@ Validar el Conocimiento en Programación en los cursos de Algoritmia de la Unive
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Mensaje](/imags.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
